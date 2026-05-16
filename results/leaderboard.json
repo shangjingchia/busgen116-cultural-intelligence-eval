@@ -1,0 +1,403 @@
+{
+  "generated_at": "2026-05-16T22:25:07.633047",
+  "n_questions": 20,
+  "n_models": 12,
+  "leaderboard": [
+    {
+      "model": "anthropic/claude-sonnet-4-6",
+      "model_short": "Claude Sonnet 4.6",
+      "overall_score": 4.68,
+      "dimensions": {
+        "cultural_accuracy": 4.81,
+        "depth_and_nuance": 4.76,
+        "epistemic_calibration": 4.16,
+        "language_quality": 4.84
+      },
+      "by_tier": {
+        "high": 4.81,
+        "mid": 4.76,
+        "low": 4.38
+      },
+      "by_culture": {
+        "Chinese": 4.84,
+        "Japanese": 4.72,
+        "Korean": 4.85,
+        "Thai": 4.62,
+        "Vietnamese": 4.9,
+        "Indonesian": 4.8,
+        "Burmese": 4.22,
+        "Khmer": 4.4,
+        "Mongolian": 4.53
+      },
+      "english_score": 4.87,
+      "native_lang_score": 4.49,
+      "cross_lingual_drift": 0.39,
+      "trap_fall_rate": 0.0,
+      "n_responses": 37,
+      "rank": 1
+    },
+    {
+      "model": "bytedance-seed/seed-2.0-lite",
+      "model_short": "Doubao Seed 2.0",
+      "overall_score": 4.6,
+      "dimensions": {
+        "cultural_accuracy": 4.68,
+        "depth_and_nuance": 4.68,
+        "epistemic_calibration": 4.29,
+        "language_quality": 4.65
+      },
+      "by_tier": {
+        "high": 4.65,
+        "mid": 4.61,
+        "low": 4.49
+      },
+      "by_culture": {
+        "Chinese": 4.82,
+        "Japanese": 4.28,
+        "Korean": 4.9,
+        "Thai": 4.48,
+        "Vietnamese": 4.84,
+        "Indonesian": 4.53,
+        "Burmese": 4.4,
+        "Khmer": 4.5,
+        "Mongolian": 4.8
+      },
+      "english_score": 4.79,
+      "native_lang_score": 4.41,
+      "cross_lingual_drift": 0.44,
+      "trap_fall_rate": 0.03,
+      "n_responses": 34,
+      "rank": 2
+    },
+    {
+      "model": "mistralai/mistral-large",
+      "model_short": "Mistral Large",
+      "overall_score": 4.4,
+      "dimensions": {
+        "cultural_accuracy": 4.58,
+        "depth_and_nuance": 4.55,
+        "epistemic_calibration": 3.73,
+        "language_quality": 4.58
+      },
+      "by_tier": {
+        "high": 4.59,
+        "mid": 4.53,
+        "low": 3.92
+      },
+      "by_culture": {
+        "Chinese": 4.7,
+        "Japanese": 4.3,
+        "Korean": 4.72,
+        "Thai": 4.3,
+        "Vietnamese": 4.72,
+        "Indonesian": 4.6,
+        "Burmese": 4.3,
+        "Khmer": 2.65,
+        "Mongolian": 4.17
+      },
+      "english_score": 4.54,
+      "native_lang_score": 4.25,
+      "cross_lingual_drift": 0.29,
+      "trap_fall_rate": 0.03,
+      "n_responses": 40,
+      "rank": 3
+    },
+    {
+      "model": "anthropic/claude-sonnet-4-5",
+      "model_short": "Claude Sonnet 4.5",
+      "overall_score": 4.37,
+      "dimensions": {
+        "cultural_accuracy": 4.6,
+        "depth_and_nuance": 4.4,
+        "epistemic_calibration": 3.7,
+        "language_quality": 4.65
+      },
+      "by_tier": {
+        "high": 4.5,
+        "mid": 4.46,
+        "low": 4.06
+      },
+      "by_culture": {
+        "Chinese": 4.53,
+        "Japanese": 4.35,
+        "Korean": 4.6,
+        "Thai": 4.33,
+        "Vietnamese": 4.48,
+        "Indonesian": 4.6,
+        "Burmese": 3.8,
+        "Khmer": 3.9,
+        "Mongolian": 4.4
+      },
+      "english_score": 4.65,
+      "native_lang_score": 4.09,
+      "cross_lingual_drift": 0.56,
+      "trap_fall_rate": 0.03,
+      "n_responses": 40,
+      "rank": 4
+    },
+    {
+      "model": "deepseek/deepseek-chat-v3-0324",
+      "model_short": "DeepSeek V3-0324",
+      "overall_score": 4.32,
+      "dimensions": {
+        "cultural_accuracy": 4.55,
+        "depth_and_nuance": 4.4,
+        "epistemic_calibration": 3.73,
+        "language_quality": 4.47
+      },
+      "by_tier": {
+        "high": 4.52,
+        "mid": 4.46,
+        "low": 3.82
+      },
+      "by_culture": {
+        "Chinese": 4.42,
+        "Japanese": 4.72,
+        "Korean": 4.47,
+        "Thai": 4.28,
+        "Vietnamese": 4.67,
+        "Indonesian": 4.4,
+        "Burmese": 4.08,
+        "Khmer": 3.65,
+        "Mongolian": 3.65
+      },
+      "english_score": 4.51,
+      "native_lang_score": 4.13,
+      "cross_lingual_drift": 0.38,
+      "trap_fall_rate": 0.03,
+      "n_responses": 40,
+      "rank": 5
+    },
+    {
+      "model": "google/gemini-2.5-flash",
+      "model_short": "Gemini 2.5 Flash",
+      "overall_score": 4.28,
+      "dimensions": {
+        "cultural_accuracy": 4.5,
+        "depth_and_nuance": 4.33,
+        "epistemic_calibration": 3.77,
+        "language_quality": 4.38
+      },
+      "by_tier": {
+        "high": 4.58,
+        "mid": 4.29,
+        "low": 3.83
+      },
+      "by_culture": {
+        "Chinese": 4.75,
+        "Japanese": 4.47,
+        "Korean": 4.42,
+        "Thai": 4.53,
+        "Vietnamese": 4.37,
+        "Indonesian": 3.83,
+        "Burmese": 3.77,
+        "Khmer": 3.8,
+        "Mongolian": 3.9
+      },
+      "english_score": 4.36,
+      "native_lang_score": 4.19,
+      "cross_lingual_drift": 0.16,
+      "trap_fall_rate": 0.05,
+      "n_responses": 40,
+      "rank": 6
+    },
+    {
+      "model": "openai/gpt-4.1",
+      "model_short": "GPT-4.1",
+      "overall_score": 4.23,
+      "dimensions": {
+        "cultural_accuracy": 4.38,
+        "depth_and_nuance": 3.95,
+        "epistemic_calibration": 3.78,
+        "language_quality": 4.7
+      },
+      "by_tier": {
+        "high": 4.42,
+        "mid": 4.33,
+        "low": 3.85
+      },
+      "by_culture": {
+        "Chinese": 4.6,
+        "Japanese": 4.47,
+        "Korean": 4.17,
+        "Thai": 4.35,
+        "Vietnamese": 4.5,
+        "Indonesian": 3.93,
+        "Burmese": 3.77,
+        "Khmer": 3.25,
+        "Mongolian": 4.22
+      },
+      "english_score": 4.32,
+      "native_lang_score": 4.13,
+      "cross_lingual_drift": 0.21,
+      "trap_fall_rate": 0.05,
+      "n_responses": 37,
+      "rank": 7
+    },
+    {
+      "model": "deepseek/deepseek-r1",
+      "model_short": "DeepSeek R1",
+      "overall_score": 4.15,
+      "dimensions": {
+        "cultural_accuracy": 4.35,
+        "depth_and_nuance": 4.24,
+        "epistemic_calibration": 3.62,
+        "language_quality": 4.24
+      },
+      "by_tier": {
+        "high": 4.57,
+        "mid": 4.43,
+        "low": 3.22
+      },
+      "by_culture": {
+        "Chinese": 4.33,
+        "Japanese": 4.8,
+        "Korean": 4.8,
+        "Thai": 4.3,
+        "Vietnamese": 4.67,
+        "Indonesian": 4.2,
+        "Burmese": 1.65,
+        "Khmer": 4.25,
+        "Mongolian": 4.28
+      },
+      "english_score": 4.28,
+      "native_lang_score": 4.02,
+      "cross_lingual_drift": 0.28,
+      "trap_fall_rate": 0.08,
+      "n_responses": 37,
+      "rank": 8
+    },
+    {
+      "model": "openai/gpt-4o",
+      "model_short": "GPT-4o",
+      "overall_score": 3.62,
+      "dimensions": {
+        "cultural_accuracy": 3.75,
+        "depth_and_nuance": 3.15,
+        "epistemic_calibration": 3.42,
+        "language_quality": 4.08
+      },
+      "by_tier": {
+        "high": 3.84,
+        "mid": 3.73,
+        "low": 3.15
+      },
+      "by_culture": {
+        "Chinese": 3.9,
+        "Japanese": 4.03,
+        "Korean": 3.58,
+        "Thai": 3.7,
+        "Vietnamese": 3.78,
+        "Indonesian": 3.7,
+        "Burmese": 3.02,
+        "Khmer": 2.9,
+        "Mongolian": 3.4
+      },
+      "english_score": 3.78,
+      "native_lang_score": 3.47,
+      "cross_lingual_drift": 0.31,
+      "trap_fall_rate": 0.2,
+      "n_responses": 40,
+      "rank": 9
+    },
+    {
+      "model": "meta-llama/llama-3.3-70b-instruct",
+      "model_short": "Llama 3.3 70B",
+      "overall_score": 3.32,
+      "dimensions": {
+        "cultural_accuracy": 3.5,
+        "depth_and_nuance": 2.89,
+        "epistemic_calibration": 3.19,
+        "language_quality": 3.58
+      },
+      "by_tier": {
+        "high": 3.44,
+        "mid": 3.57,
+        "low": 2.81
+      },
+      "by_culture": {
+        "Chinese": 3.74,
+        "Japanese": 3.4,
+        "Korean": 3.0,
+        "Thai": 3.23,
+        "Vietnamese": 3.85,
+        "Indonesian": 3.75,
+        "Burmese": 2.9,
+        "Khmer": 2.55,
+        "Mongolian": 2.85
+      },
+      "english_score": 3.62,
+      "native_lang_score": 3.04,
+      "cross_lingual_drift": 0.62,
+      "trap_fall_rate": 0.28,
+      "n_responses": 36,
+      "rank": 10
+    },
+    {
+      "model": "qwen/qwen-2.5-72b-instruct",
+      "model_short": "Qwen 2.5 72B",
+      "overall_score": 3.23,
+      "dimensions": {
+        "cultural_accuracy": 3.3,
+        "depth_and_nuance": 2.88,
+        "epistemic_calibration": 2.98,
+        "language_quality": 3.65
+      },
+      "by_tier": {
+        "high": 3.49,
+        "mid": 3.59,
+        "low": 2.27
+      },
+      "by_culture": {
+        "Chinese": 3.52,
+        "Japanese": 3.72,
+        "Korean": 3.22,
+        "Thai": 3.4,
+        "Vietnamese": 3.9,
+        "Indonesian": 3.42,
+        "Burmese": 2.15,
+        "Khmer": 2.5,
+        "Mongolian": 2.27
+      },
+      "english_score": 3.58,
+      "native_lang_score": 2.87,
+      "cross_lingual_drift": 0.72,
+      "trap_fall_rate": 0.4,
+      "n_responses": 40,
+      "rank": 11
+    },
+    {
+      "model": "meta-llama/llama-3.1-70b-instruct",
+      "model_short": "Llama 3.1 70B",
+      "overall_score": 3.11,
+      "dimensions": {
+        "cultural_accuracy": 3.25,
+        "depth_and_nuance": 2.7,
+        "epistemic_calibration": 2.98,
+        "language_quality": 3.38
+      },
+      "by_tier": {
+        "high": 3.28,
+        "mid": 3.34,
+        "low": 2.51
+      },
+      "by_culture": {
+        "Chinese": 3.5,
+        "Japanese": 3.17,
+        "Korean": 3.05,
+        "Thai": 3.15,
+        "Vietnamese": 3.37,
+        "Indonesian": 3.58,
+        "Burmese": 2.6,
+        "Khmer": 2.65,
+        "Mongolian": 2.35
+      },
+      "english_score": 3.57,
+      "native_lang_score": 2.65,
+      "cross_lingual_drift": 0.92,
+      "trap_fall_rate": 0.42,
+      "n_responses": 40,
+      "rank": 12
+    }
+  ]
+}
