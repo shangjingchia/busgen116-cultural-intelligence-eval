@@ -410,10 +410,10 @@ with t_find:
 
 # ─── Rankings ──────────────────────────────────────────────────────────────────
 with t_rank:
-    medals = {1: "🥇", 2: "🥈", 3: "🥉"}
+    medals = {1: "🥇 ", 2: "🥈 ", 3: "🥉 "}
     rows = [{
-        "Rank":         medals.get(e["rank"], f"#{e['rank']}"),
-        "Model":        e["model_short"],
+        "Rank":         e["rank"],
+        "Model":        medals.get(e["rank"], "") + e["model_short"],
         "Overall":      e["overall_score"],
         "Accuracy":     e["dimensions"]["cultural_accuracy"],
         "Depth":        e["dimensions"]["depth_and_nuance"],
@@ -422,7 +422,7 @@ with t_rank:
         "English":      e["english_score"],
         "Native":       e["native_lang_score"],
         "Drift":        e["cross_lingual_drift"],
-        "Trap %":       f"{e['trap_fall_rate']*100:.0f}%",
+        "Trap %":       round(e["trap_fall_rate"] * 100, 0),
     } for e in lb]
 
     st.caption("Hover any column header for a definition of what it measures.")
@@ -447,7 +447,8 @@ with t_rank:
                 help="Average score across all questions when the prompt was asked in the culture's native language (Mandarin, Japanese, Korean, Thai, Vietnamese, Indonesian, Burmese, Khmer, or Mongolian)."),
             "Drift":        st.column_config.NumberColumn("Drift",
                 help="Cross-lingual drift = English score − Native score, averaged per question. Positive = model performs better in English. The larger the gap, the more the model relies on English as a scaffold for cultural knowledge."),
-            "Trap %":       st.column_config.TextColumn("Trap %",
+            "Rank":         st.column_config.NumberColumn("Rank", format="%d"),
+            "Trap %":       st.column_config.NumberColumn("Trap %", format="%.0f%%",
                 help="Percentage of questions where the model fell into the known cultural trap — e.g. applying Western norms to Asian scenarios, giving a dictionary gloss instead of explaining cultural weight, or reproducing an official narrative uncritically."),
         },
     )
