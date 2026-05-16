@@ -4,7 +4,7 @@
 
 This benchmark tests 12 frontier LLMs on 20 culturally nuanced questions spanning 9 Asian cultures, asked twice each: once in English, once in the native language. The core metric is **cross-lingual drift** — how much a model's cultural understanding degrades when you stop speaking English.
 
-**[→ View Live Dashboard](https://YOUR-STREAMLIT-APP-URL)**
+**[→ View Live Dashboard](https://busgen116-cultural-intelligence-eval-yk269jh6rfb5efru6ug95k.streamlit.app)**
 
 ---
 
@@ -157,4 +157,4 @@ This project was designed and executed end-to-end for **BUSGEN 116** at **Stanfo
 
 ---
 
-*Methodology, scoring rubric, limitations, and the full question bank are documented in the [live dashboard](https://YOUR-STREAMLIT-APP-URL) under the Methodology tab.*
+*Methodology, scoring rubric, limitations, and the full question bank are documented in the [live dashboard](https://busgen116-cultural-intelligence-eval-yk269jh6rfb5efru6ug95k.streamlit.app) under the Methodology tab.*
