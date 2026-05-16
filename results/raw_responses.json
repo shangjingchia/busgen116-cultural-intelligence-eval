@@ -6,7 +6,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:06:59.641313",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q01",
@@ -51,7 +51,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:07:17.209006",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q01",
@@ -114,7 +114,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:07:31.401684",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q01",
@@ -177,7 +177,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:08:00.333460",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q02",
@@ -240,7 +240,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:08:26.218285",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q02",
@@ -303,7 +303,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:08:50.749874",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q03",
@@ -366,7 +366,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:09:39.031134",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q03",
@@ -429,7 +429,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:10:17.548449",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q04",
@@ -492,7 +492,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:10:51.686884",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q05",
@@ -555,7 +555,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:11:25.127155",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q05",
@@ -618,7 +618,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:11:46.381091",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q05",
@@ -681,7 +681,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:12:09.570875",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q05",
@@ -744,7 +744,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:12:40.460344",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q06",
@@ -807,7 +807,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:13:28.619886",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q07",
@@ -870,7 +870,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:14:00.860768",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q07",
@@ -933,7 +933,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:14:28.998330",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q08",
@@ -996,7 +996,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:15:09.654167",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q08",
@@ -1059,7 +1059,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:15:34.014373",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q09",
@@ -1122,7 +1122,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:16:22.603321",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q09",
@@ -1185,7 +1185,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:16:41.929609",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q10",
@@ -1248,7 +1248,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:17:08.665715",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q10",
@@ -1311,7 +1311,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:17:33.538788",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q11",
@@ -1374,7 +1374,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:17:53.702330",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q11",
@@ -1437,7 +1437,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:18:33.371978",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q12",
@@ -1500,7 +1500,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:19:14.537104",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q12",
@@ -1563,7 +1563,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:19:43.807722",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q13",
@@ -1626,7 +1626,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:20:25.885029",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q13",
@@ -1689,7 +1689,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:20:51.760821",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q14",
@@ -1752,7 +1752,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:21:27.586417",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q14",
@@ -1815,7 +1815,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:21:54.458280",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q15",
@@ -1878,7 +1878,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:22:38.346689",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q15",
@@ -1941,7 +1941,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:23:12.770710",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q15",
@@ -2004,7 +2004,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:23:43.718148",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q17",
@@ -2067,7 +2067,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:24:12.222378",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q17",
@@ -2130,7 +2130,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:24:46.884900",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q17",
@@ -2193,7 +2193,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:25:12.802135",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q18",
@@ -2256,7 +2256,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:26:01.657914",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q18",
@@ -2319,7 +2319,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:26:29.617713",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q19",
@@ -2382,7 +2382,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:27:09.616843",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q19",
@@ -2445,7 +2445,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:27:34.230773",
-    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 404: {\"error\":{\"message\":\"No endpoints found for google/gemini-pro-1.5.\",\"code\":404}}"
   },
   {
     "question_id": "Q20",
@@ -2526,7 +2526,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:31:34.048230",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q01",
@@ -2562,7 +2562,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:31:44.462929",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q01",
@@ -2607,7 +2607,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:32:18.818414",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q01",
@@ -2652,7 +2652,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:32:43.812235",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q02",
@@ -2697,7 +2697,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:33:08.226078",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q02",
@@ -2733,7 +2733,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:33:29.479217",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q02",
@@ -2778,7 +2778,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:33:51.779816",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q04",
@@ -2823,7 +2823,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:34:13.142794",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q04",
@@ -2868,7 +2868,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:34:34.442134",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q03",
@@ -2922,7 +2922,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:34:53.428813",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q05",
@@ -2958,7 +2958,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:35:18.362037",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q06",
@@ -3003,7 +3003,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:35:43.872659",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q06",
@@ -3048,7 +3048,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:36:05.569706",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q06",
@@ -3093,7 +3093,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:36:37.976942",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q07",
@@ -3138,7 +3138,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:36:52.125750",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q07",
@@ -3183,7 +3183,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:37:06.814969",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q08",
@@ -3228,7 +3228,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:37:24.421970",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q07",
@@ -3273,7 +3273,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:37:44.961952",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q08",
@@ -3318,7 +3318,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:37:58.043123",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q09",
@@ -3363,7 +3363,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:38:16.181537",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q10",
@@ -3408,7 +3408,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:38:42.178449",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q10",
@@ -3453,7 +3453,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:38:52.051033",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q11",
@@ -3498,7 +3498,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:39:09.436413",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q11",
@@ -3543,7 +3543,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:39:20.363851",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q12",
@@ -3588,7 +3588,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:39:48.980029",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q13",
@@ -3633,7 +3633,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:40:11.154284",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q13",
@@ -3678,7 +3678,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:40:44.925327",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q14",
@@ -3723,7 +3723,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:41:02.561784",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q14",
@@ -3768,7 +3768,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:41:18.154649",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q15",
@@ -3813,7 +3813,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:41:43.589426",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q15",
@@ -3858,7 +3858,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:42:23.564988",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q16",
@@ -3903,7 +3903,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:42:46.419074",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q16",
@@ -3948,7 +3948,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:43:03.660888",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q16",
@@ -3993,7 +3993,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:43:26.020452",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q17",
@@ -4047,7 +4047,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:43:54.512173",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q18",
@@ -4083,7 +4083,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:44:16.833136",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q18",
@@ -4128,7 +4128,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:44:39.297092",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q19",
@@ -4173,7 +4173,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:45:02.748611",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q19",
@@ -4218,7 +4218,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:45:20.019597",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q18",
@@ -4263,7 +4263,7 @@
     "response": null,
     "tokens_used": 0,
     "timestamp": "2026-05-11T19:45:24.815677",
-    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400},\"user_id\":\"org_3Bld3zxd4Es6ysbHnhw384xykxK\"}"
+    "error": "HTTP 400: {\"error\":{\"message\":\"google/gemini-2.0-flash is not a valid model ID\",\"code\":400}}"
   },
   {
     "question_id": "Q20",
