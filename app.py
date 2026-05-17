@@ -250,7 +250,7 @@ with t_find:
             f"<b>DeepSeek R1</b> scores <b>{fmt(dsr1['by_culture'].get('Japanese'))}</b> on Japanese "
             f"and <b>{fmt(dsr1['by_culture'].get('Korean'))}</b> on Korean — "
             f"then <b>{fmt(dsr1['by_culture'].get('Burmese'))}</b> on Burmese. "
-            f"A <b>{fmt(dsr1['by_tier']['high']-dsr1['by_tier']['low'])}-pt cliff</b>. "
+            f"A <b>{fmt(dsr1['by_culture'].get('Japanese',0)-dsr1['by_culture'].get('Burmese',0))}-pt cliff</b>. "
             f"This isn't gradual decline; it's where training data simply runs out.",
             "#e05a6a",
         ))

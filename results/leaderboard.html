@@ -420,7 +420,7 @@ function sortTable(key) {
       stat: fmt(dsr1.by_culture?.Burmese),
       statLabel: 'DeepSeek R1 · Burmese score',
       title: 'The Low-Resource Cliff Is a Drop, Not a Slope',
-      body: `<strong>DeepSeek R1</strong> scores <strong>${fmt(dsr1.by_culture?.Japanese)}</strong> on Japanese and <strong>${fmt(dsr1.by_culture?.Korean)}</strong> on Korean — then <strong>${fmt(dsr1.by_culture?.Burmese)}</strong> on Burmese. A <strong>${fmt((dsr1.by_tier?.high||0)-(dsr1.by_tier?.low||0))}-pt cliff</strong>. This isn't gradual decline; it's where training data simply runs out.`
+      body: `<strong>DeepSeek R1</strong> scores <strong>${fmt(dsr1.by_culture?.Japanese)}</strong> on Japanese and <strong>${fmt(dsr1.by_culture?.Korean)}</strong> on Korean — then <strong>${fmt(dsr1.by_culture?.Burmese)}</strong> on Burmese. A <strong>${fmt((dsr1.by_culture?.Japanese||0)-(dsr1.by_culture?.Burmese||0))}-pt cliff</strong>. This isn't gradual decline; it's where training data simply runs out.`
     } : {
       icon: '🔇',
       accent: '#f87171',
